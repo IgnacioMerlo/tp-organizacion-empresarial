@@ -8,3 +8,5 @@ Ventas por Mes:
 2026-03 1460
 2026-04 5070
 2026-05 3165
+
+Validación final realizada correctamente.
