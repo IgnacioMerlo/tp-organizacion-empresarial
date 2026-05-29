@@ -1,0 +1,10 @@
+Ventas Totales: $15045
+Producto Más Vendido: Mouse
+
+Ventas por Mes:
+
+2026-01 2875
+2026-02 2475
+2026-03 1460
+2026-04 5070
+2026-05 3165
