@@ -63,3 +63,6 @@ python scripts/analisis_ventas.py
 
 Ignacio Merlo
 
+## Estado del Proyecto
+
+Proyecto finalizado y validado mediante pruebas de ejecución en Google Colab.
